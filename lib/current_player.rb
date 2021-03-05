@@ -4,6 +4,5 @@ def turn_count(board)
     if tile != " " || tile != ""
       counter += 1
     end
-  return counter;  
+  return counter;
 end
-
